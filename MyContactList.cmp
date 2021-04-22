@@ -10,6 +10,7 @@
                 />
     <lightning:card iconName="standard:contact" title="{! 'Contact List For' + v.Account.Name }">
          <!-- Contact list goes here -->
+<h1>Hii Git</h1>
     </lightning:card>
 
 </aura:component>
